@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='Edelta Site 2.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1655472883820'/>
+    <property name='p2.atomic.composite.loading' value='false'/>
+  </properties>
+  <children size='4'>
+    <child location='2.15.x'/>
+    <child location='2.16.x'/>
+    <child location='2.17.x'/>
+    <child location='2.18.x'/>
+  </children>
+</repository>
