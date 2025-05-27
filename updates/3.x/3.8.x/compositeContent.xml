@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
-<repository name='&quot;Edelta Site&quot; 3.8.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1'>
+<repository name='&quot;Edelta Site&quot; 3.8.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1742829210928'/>
+    <property name='p2.timestamp' value='1748355747407'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
   <children size='1'>
-    <child location='../../../releases/3.8.0.202503241507'/>
+    <child location='../../../releases/3.8.6.202505271420'/>
   </children>
 </repository>
