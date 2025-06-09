@@ -2,12 +2,13 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='&quot;Edelta Site&quot; 3.8.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1749458024514'/>
+    <property name='p2.timestamp' value='1749462666198'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='3'>
+  <children size='4'>
     <child location='../../../releases/3.8.6.202505271420'/>
     <child location='../../../releases/3.8.7.202505311139'/>
     <child location='../../../releases/3.8.8.202506090829'/>
+    <child location='../../../releases/3.8.9.202506090948'/>
   </children>
 </repository>
